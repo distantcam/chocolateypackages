@@ -1,0 +1,9 @@
+version: 1.0.{build}
+build_script:
+- cmd: >-
+    cd gcc-arm-embedded
+
+    choco pack
+artifacts:
+- path: '*'
+  name: '*.nupkg'
