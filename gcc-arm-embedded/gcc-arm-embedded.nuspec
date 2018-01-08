@@ -3,11 +3,11 @@
   <metadata>
     <id>gcc-arm-embedded</id>
     <title>GNU Tools for ARM Embedded Processors</title>
-    <version>4.8.2014.1</version>
+    <version>7-2017-q4-major</version>
     <authors>TerryGuo JoeyYe ThomasPreudhomme KennyKoller ThomasGrieger</authors>
     <owners>distantcam</owners>
     <description>Pre-built GNU toolchain from ARM Cortex-M and Cortex-R processors (Cortex-M0/M0+/M3/M4, Cortex-R4/R5/R7).</description>
-    <projectUrl>https://launchpad.net/gcc-arm-embedded</projectUrl>
+    <projectUrl>https://developer.arm.com/open-source/gnu-toolchain/gnu-rm</projectUrl>
     <tags>gnu gcc arm embedded</tags>
   </metadata>
   <files>
