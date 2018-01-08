@@ -1,1 +1,1 @@
-﻿Install-ChocolateyZipPackage "gcc-arm-embedded" "https://launchpad.net/gcc-arm-embedded/4.8/4.8-2014-q1-update/+download/gcc-arm-none-eabi-4_8-2014q1-20140314-win32.zip" "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
+﻿Install-ChocolateyZipPackage "gcc-arm-embedded" "https://developer.arm.com/-/media/Files/downloads/gnu-rm/7-2017q4/gcc-arm-none-eabi-7-2017-q4-major-win32.zip" "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
